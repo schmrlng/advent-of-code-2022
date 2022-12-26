@@ -1,0 +1,5 @@
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+OffsetArrays = "6fe1bfb0-de20-5000-8ca7-80f57d26f881"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+SymPy = "24249f21-da20-56a4-8eb1-6a02cf4ae2e6"
